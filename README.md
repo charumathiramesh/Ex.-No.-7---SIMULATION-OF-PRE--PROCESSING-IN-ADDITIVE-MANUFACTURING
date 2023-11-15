@@ -44,9 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![275325977-3838ed2b-bacb-4e32-b717-5ee14d43db62](https://github.com/charumathiramesh/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120204455/099004a4-d6db-47a7-a373-e17f21646603)
 
-### Name:
-### Register Number:
+### Name: CHARUMATHI R
+### Register Number: 212222240021
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
